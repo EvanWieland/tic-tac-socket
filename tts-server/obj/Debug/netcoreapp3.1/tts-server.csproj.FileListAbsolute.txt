@@ -1,0 +1,14 @@
+C:\Users\evwie\Development\tic-tac-socket\tts-server\bin\Debug\netcoreapp3.1\tts-server.exe
+C:\Users\evwie\Development\tic-tac-socket\tts-server\bin\Debug\netcoreapp3.1\tts-server.deps.json
+C:\Users\evwie\Development\tic-tac-socket\tts-server\bin\Debug\netcoreapp3.1\tts-server.runtimeconfig.json
+C:\Users\evwie\Development\tic-tac-socket\tts-server\bin\Debug\netcoreapp3.1\tts-server.runtimeconfig.dev.json
+C:\Users\evwie\Development\tic-tac-socket\tts-server\bin\Debug\netcoreapp3.1\tts-server.dll
+C:\Users\evwie\Development\tic-tac-socket\tts-server\bin\Debug\netcoreapp3.1\tts-server.pdb
+C:\Users\evwie\Development\tic-tac-socket\tts-server\obj\Debug\netcoreapp3.1\tts-server.csproj.AssemblyReference.cache
+C:\Users\evwie\Development\tic-tac-socket\tts-server\obj\Debug\netcoreapp3.1\tts-server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evwie\Development\tic-tac-socket\tts-server\obj\Debug\netcoreapp3.1\tts-server.AssemblyInfoInputs.cache
+C:\Users\evwie\Development\tic-tac-socket\tts-server\obj\Debug\netcoreapp3.1\tts-server.AssemblyInfo.cs
+C:\Users\evwie\Development\tic-tac-socket\tts-server\obj\Debug\netcoreapp3.1\tts-server.csproj.CoreCompileInputs.cache
+C:\Users\evwie\Development\tic-tac-socket\tts-server\obj\Debug\netcoreapp3.1\tts-server.dll
+C:\Users\evwie\Development\tic-tac-socket\tts-server\obj\Debug\netcoreapp3.1\tts-server.pdb
+C:\Users\evwie\Development\tic-tac-socket\tts-server\obj\Debug\netcoreapp3.1\tts-server.genruntimeconfig.cache
