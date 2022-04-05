@@ -1,7 +1,0 @@
-{
-  "name": "tts-client",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
